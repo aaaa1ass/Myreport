@@ -1,2 +1,3 @@
 name i jaeyun
 number 12313123123
+score 100

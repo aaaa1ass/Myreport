@@ -1,1 +1,2 @@
 BOOM
+score 100
